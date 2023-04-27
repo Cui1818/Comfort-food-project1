@@ -12,7 +12,7 @@ Uzoamaka Metu
 
 Your Project Links
 Code Repo URL
-https://github.com/mila3245/project-1-g6
+
 
 
 Deployed URL
