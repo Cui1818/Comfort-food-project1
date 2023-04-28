@@ -256,11 +256,7 @@ JS: contact automation
 WireFrame Images
  
 
-Features / Tasks
-Link to Github Projects Board
-•	https://github.com/mila3245/project-1-g6
 
-Planning: Technology
 
 APIs to be Used:
 API #	API Base URL	Parameters	What is it?
