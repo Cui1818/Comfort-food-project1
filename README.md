@@ -12,6 +12,9 @@ Uzoamaka Metu
 
 Your Project Links
 Code Repo URL
+https://cui1818.github.io/Comfort-food-project1/
+
+https://github.com/Cui1818/Comfort-food-project1
 
 
 
